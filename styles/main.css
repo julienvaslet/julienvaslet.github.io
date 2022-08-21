@@ -145,6 +145,11 @@ nav ul li a span.content {
     overflow: hidden;
 }
 
+nav ul li a img {
+    display: inline-block;
+    width: 35px;
+}
+
 @media (min-width: 576px) {
     body {
         background-image: radial-gradient(#00000000, #00000020), url('../images/background-900.jpg');
